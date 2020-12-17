@@ -1,0 +1,22 @@
+html {
+    font-size: 10px;
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: #EBF4FE;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FBE8C5;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    margin: 0px;
+    padding: 20px 0;
+    color: #EBF4FE;
+    text-shadow: 1px 1px 5px black;
+    font-size: 60px;
+    text-align: center;
+}
